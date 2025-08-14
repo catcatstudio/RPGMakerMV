@@ -499,11 +499,11 @@ Scene_Title.prototype.centerSprite = function(sprite) {
 };
 
 Scene_Title.prototype.createCommandWindow = function() {
-    this._commandWindow = new Window_TitleCommand();  //建立一個指令視窗
-    this._commandWindow.setHandler('newGame',  this.commandNewGame.bind(this));  //新增 開始新遊戲按鈕的 監控事件
-    this._commandWindow.setHandler('continue', this.commandContinue.bind(this));  //新增 繼續遊戲按鈕的 監控事件
-    this._commandWindow.setHandler('options',  this.commandOptions.bind(this));  //新增 選項按鈕的 監控事件
-    this.addWindow(this._commandWindow);  //把指令視窗 放到Scene_Title
+    this._commandWindow = new Window_TitleCommand();
+    this._commandWindow.setHandler('newGame',  this.commandNewGame.bind(this));
+    this._commandWindow.setHandler('continue', this.commandContinue.bind(this));
+    this._commandWindow.setHandler('options',  this.commandOptions.bind(this));
+    this.addWindow(this._commandWindow);
 };
 
 Scene_Title.prototype.commandNewGame = function() {

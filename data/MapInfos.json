@@ -1,11 +1,8 @@
 [
 null,
-{"id":1,"expanded":false,"name":"村莊","order":1,"parentId":0,"scrollX":1109,"scrollY":1296},
-{"id":2,"expanded":true,"name":"雪城","order":6,"parentId":0,"scrollX":816,"scrollY":800},
-{"id":3,"expanded":false,"name":"旅館 1F","order":2,"parentId":1,"scrollX":811,"scrollY":503},
-{"id":4,"expanded":false,"name":"旅館 2F","order":3,"parentId":1,"scrollX":819,"scrollY":457},
-{"id":5,"expanded":false,"name":"道具商店","order":4,"parentId":1,"scrollX":819,"scrollY":457},
-{"id":6,"expanded":false,"name":"學校","order":7,"parentId":2,"scrollX":1152,"scrollY":1296},
-{"id":7,"expanded":false,"name":"冰窟","order":8,"parentId":0,"scrollX":816,"scrollY":1471},
-{"id":8,"expanded":false,"name":"大廈","order":5,"parentId":1,"scrollX":994,"scrollY":1317}
+{"id":1,"expanded":true,"name":"家","order":1,"parentId":0,"scrollX":655.2,"scrollY":365.6},
+{"id":2,"expanded":false,"name":"村莊","order":2,"parentId":0,"scrollX":648.8,"scrollY":594.4},
+{"id":3,"expanded":false,"name":"森林","order":3,"parentId":0,"scrollX":791.2,"scrollY":359.2},
+null,
+{"id":5,"expanded":false,"name":"被詛咒的洞窟","order":4,"parentId":0,"scrollX":984,"scrollY":626.4}
 ]
